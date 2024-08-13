@@ -20,8 +20,8 @@ My projects
 | Alonzo | A custom AI chatbot built with NextJS, Gemini, and Firebase, complete with a custom built-from-scratch authentication system.	| [GitHub](https://github.com/derekGou/alonzo)
 | Portfolio |	Personal portfolio site showcasing interests, hobbies, skills, and experience. Made with HTML, CSS, JavaScript, and Bootstrap. | [GitHub](https://github.com/Mr-W-Squidward/portfoliosite)
 | NumNudge | Full-stack tutoring website featuring sign-up/login, authentication, emailing features, SEO optimization, and more.	| [GitHub](https://github.com/Mr-W-Squidward/NumNudge)
-| KnowledgeMonkey	| An ICS4U project that tests users on the coordinates of the division point of a line segment. Made using ReactJS, Typescript, and Tailwind CSS. |	[GitHub](https://github.com/Mr-W-Squidward/knowledgemonkey)
-| EcoBrowser | A full-stack web extension for google chrome using Gemini API and HTML/CSS/Javascript to provide suggestions on how to save energy through your PC.	| [GitHub](https://github.com/Mr-W-Squidward/ecobrowser)
+| KnowledgeMonkey	| An ICS4U project used for mathematical questions, made using ReactJS, Typescript, and Tailwind CSS. |	[GitHub](https://github.com/Mr-W-Squidward/knowledgemonkey)
+| EcoBrowser | A web extension for google chrome using Gemini API and HTML/CSS/Javascript to provide suggestions on how to save energy through your PC.	| [GitHub](https://github.com/Mr-W-Squidward/ecobrowser)
 
 [//]: <> (Thanks to anuraghazra for the stats!)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mr-W-Squidward&layout=compact)](https://github.com/Mr-W-Squidward)
