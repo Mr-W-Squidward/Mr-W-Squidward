@@ -2,6 +2,7 @@ Welcome to my GitHub
 Hello! My name is Wajeeh, and I'm a high school developer and aspiring developer from Toronto, Canada!
 
 Languages/Tools
+
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></code>
