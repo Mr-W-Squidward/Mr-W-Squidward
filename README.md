@@ -1,4 +1,3 @@
-Welcome to my GitHub
 Hello! My name is Wajeeh, and I'm an incoming first-year student based in Toronto, Canada!
 
 Languages/Tools
