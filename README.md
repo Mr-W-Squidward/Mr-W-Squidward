@@ -21,7 +21,7 @@ My projects
 | Voca | An interactive vocal processor and pitch-training platform built with React, Mediapipe, and Tone.js. Uses real-time hand-tracking and a autocorrelation algorithm; gamified feedback included. |	[GitHub](https://github.com/Cyronite/Math-Hacks)
 | Carbon Tracker | A Hackathon hardware project built in C++ utilizing an MPU6050, Arduino, ESP32 Microcontroller and a simple Node.js backend w/ a vanilla webpage.	| [GitHub](https://github.com/Mr-W-Squidward/carbontracker-HTS)
 | Alonzo | A custom AI chatbot built with NextJS, Gemini, and Firebase, complete with a custom built-from-scratch authentication system.	| [GitHub](https://github.com/derekGou/alonzo)
-| StudyQuest | A full-stack mobile application developed using Expo/React Native, Typescript & TailwindCSS, leveraging Firebase Authentication and Context API for seamless state management.	| [GitHub](https://github.com/Mr-W-Squidward/studyquest)
+| Pokédoku | Sudoku 4 Pokémon and Bunnies! Made in React, Typescript, Tailwind CSS. Pokémon SFX and graphics included!	| [GitHub](https://github.com/Mr-W-Squidward/pokedoku)
 
 [//]: <> ()
 [![Stats](https://github-readme-stats.vercel.app/api?username=Mr-W-Squidward&layout=compact)](https://github.com/Mr-W-Squidward)
